@@ -1,0 +1,23 @@
+.main {
+  font-size: 32px;
+  font-family: "Shantell Sans", cursive;
+  text-align: center;
+}
+
+.second {
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: right;
+}
+
+.third {
+  font-size: 24px;
+  font-family: "Shantell Sans", cursive;
+  font-weight: bold;
+  text-align: left;
+}
+
+p {
+  color: blue;
+  text-align: center;
+}
